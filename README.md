@@ -1,2 +1,2 @@
 # Market-Basket-Analysis
-Data Analysis Project
+mid project for Epsilon data science diploma
